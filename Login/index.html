@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en" class="no-js">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Login/Register</title>
+        <link rel="stylesheet" type="text/css" href="Style.css" />
+
+    </head>
+    <body>
+        <section class="loginform cf">
+            <form name="login" action="index_submit" method="get" accept-charset="utf-8">
+                <ul>
+                    <li>
+                        <label for="password">Password</label>
+                        <input id="input" type="password" name="password" placeholder="password" required>
+                    </li>
+                    <li>
+                        <input id="submit" type="submit" value="Login / Register">
+                    </li>
+                </ul>
+            </form>
+        </section>
+    </body>
+</html>
+<script type="text/javascript">
+        document.getElementById("submit").addEventListener("click", function () {
+            var text = document.getElementById("input").value;
+            resourceCall("sendInput", text);
+        });
+</script>

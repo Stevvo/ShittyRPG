@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<meta>
+    <info name="Icaro RPG" author="Icaro" type="gamemode" async="true"/>
+  
+    
+    <assembly ref="System.Xml.dll" />
+	  <assembly ref="System.Xml.Linq.dll" />
+  <script src="Interaction.cs" type="server" lang="csharp" />
+    <script src="ConnectionManager.cs" type="server" lang="csharp" />
+    <script src="Database.cs" type="server" lang="csharp" />
+    <script src="DimensionManager.cs" type="server" lang="csharp" />
+    <script src="LoginManager.cs" type="server" lang="csharp" />
+    <script src="SpawnManager.cs" type="server" lang="csharp" />
+    <script src="AutoCrimeReporter.cs" type="server" lang="csharp" />
+	  <script src="Money.cs" type="server" lang="csharp" />
+    <script src="Items.cs" type="server" lang="csharp" />
+    <script src="Items.js" type="client" lang="javascript" />
+    <script src="Interaction.js" type="client" lang="javascript" />
+    <script src="CharacterCreator.cs" type="server" lang="csharp" />
+  	<script src="gtao_api.cs" type="server" lang="csharp" />
+	  <script src="gtao_handler.js" type="client" lang="javascript" />
+    <script src="Cams.cs" type="server" lang="csharp" />
+    <script src="Semiauto.js" type="client" lang ="javascript" />
+    <script src="ClothingStores.cs" type="server" lang="csharp" />
+    
+    <script src="Infobox/Infobox.js" type="client" lang="javascript" />
+	  <file src="Infobox/index.html" />
+	  <file src="Infobox/ChaletLondonNineteenSixty.ttf" />
+
+    <script src="ServersideCamera.js" type="client" lang="javascript" />
+    <script src="MoneyDisplay.js" type="client" lang="javascript" />
+
+    <script src="Citizen/CitizenCommands.cs" type="server" lang="csharp" />
+
+    <script src="Cops/CopCommands.js" type="client" lang="javascript" />
+    <script src="Cops/CopCommands.cs" type="server" lang="csharp" />
+    <script src="Cops/CopUtil.cs" type="server" lang="csharp" />
+    <script src="Cops/JailController.cs" type="server" lang="csharp" />
+    <script src="Cops/WantedLevelDataProvider.cs" type="server" lang="csharp" />
+    <script src="Cops/PoliceStation.cs" type="server" lang="csharp" />
+    <script src="Homes.cs" type="server" lang ="csharp" />
+    <script src="Property.cs" type="server" lang="csharp" />
+    <script src="World.cs" type="server" lang="csharp" />
+    <script src="Chat.cs" type="server" lang="csharp" />"
+    <script src="Global/GlobalCommands.cs" type="server" lang="csharp" />
+    <script src="Global/Util.cs" type="server" lang="csharp" />
+    <script src="Global/RespawnManager.cs" type="server" lang="csharp" />
+    <script src="Vehicles/VehicleSpawner.cs" type="server" lang="csharp" />
+    <script src="Vehicles/VehicleSpawner.js" type="client" lang="javascript" />
+    <script src="Vehicles/LosSantosCustoms.cs" type ="server" lang="csharp" />
+    <script src="MenuManager.js" type="client" lang="javascript" />"
+    <script src="server_subtitle.js" type ="client" lang="javascript" />
+    <script src="BlipManager.js" type ="client" lang="javascript" />
+</meta>

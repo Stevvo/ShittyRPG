@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Vehicles>
+  <Vehicle OwnedVehicleID="1001" Model="2046537925" X="1126.39856" Y="-656.0314" Z="56.3697052" RZ="10.9271832" spawnX="484.9" spawnY="-1018" spawnZ="28.54" C1="111" Dimension="1" />
+  <Vehicle OwnedVehicleID="1002" Model="-1973172295" X="-59.2817039" Y="-1827.675" Z="26.4242287" RZ="76.02328" spawnX="484.9" spawnY="-1018" spawnZ="28.54" C1="111" Dimension="1" />
+  <Vehicle OwnedVehicleID="1003" Model="1672195559" X="-834.853455" Y="301.802063" Z="85.72662" RZ="-171.9133" spawnX="-64.46" spawnY="-1832.45" spawnZ="26.87" C1="111" Dimension="1" />
+</Vehicles>

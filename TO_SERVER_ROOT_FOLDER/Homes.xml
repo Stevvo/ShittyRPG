@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Homes>
+  <Home Name="Placeholder" ID="1" EX="-974.1464" EY="-1433.113" EZ="7.679172" IX="346.5235" IY="-1002.901" IZ="-99.1962" Price="0" />
+  <Home Name="Placeholder" ID="2" EX="-1439.59" EY="-550.6906" EZ="34.7418" IX="-1460.366" IY="-522.0636" IZ="56.929" Price="80000" />
+  <Home Name="Placeholder" ID="3" EX="-773.282" EY="312.275" EZ="84.698" IX="-780.152" IY="340.443" IZ="207.621" Price="80000" />
+  <Home Name="Placeholder" ID="4" EX="1665.579" EY="4776.712" EZ="41.93869" IX="265.3285" IY="-1002.704" IZ="-99.0085" Price="80000" />
+  <Home Name="Placeholder" ID="5" EX="-688.8965" EY="598.6945" EZ="143.5084" IX="-680.1067" IY="590.6495" IZ="145.393" Price="80000" />
+  <Home Name="Placeholder" ID="6" EX="-751.1387" EY="621.1008" EZ="142.2527" IX="-761.0836" IY="617.9774" IZ="144.1539" Price="80000" />
+  <Home Name="Placeholder" ID="7" EX="-853.2899" EY="698.7006" EZ="148.7756" IX="-859.5645" IY="688.7182" IZ="152.8571" Price="80000" />
+  <Home Name="Placeholder" ID="8" EX="-1294.228" EY="456.4709" EZ="97.0794" IX="-1289.639" IY="446.7739" IZ="97.8989" Price="80000" />
+  <Home Name="Placeholder" ID="9" EX="-558.0556" EY="666.2042" EZ="145.1311" IX="-572.4428" IY="658.958" IZ="145.8364" Price="80000" />
+  <Home Name="Placeholder" ID="10" EX="349.893" EY="442.8174" EZ="147.3472" IX="340.6531" IY="436.7456" IZ="149.394" Price="80000" />
+  <Home Name="Placeholder" ID="11" EX="371.9392" EY="430.4312" EZ="145.1107" IX="373.2864" IY="420.6612" IZ="145.9045" Price="80000" />
+  <Home Name="Placeholder" ID="12" EX="-305.5824" EY="6330.911" EZ="32.48935" IX="346.5235" IY="-1002.901" IZ="-99.1962" Price="80000" />
+  <Home Name="Placeholder" ID="13" EX="-933.4771" EY="-383.6144" EZ="38.9613" IX="-913.1502" IY="-384.5727" IZ="85.4804" Price="80000" />
+  <Home Name="Placeholder" ID="14" EX="-617.9388" EY="35.7848" EZ="43.5558" IX="-598.9042" IY="41.8059" IZ="93.6261" Price="80000" />
+  <Home Name="Placeholder" ID="15" EX="-914.3189" EY="-455.2902" EZ="39.5998" IX="-900.6082" IY="-431.0182" IZ="121.607" Price="80000" />
+  <Home Name="Placeholder" ID="16" EX="118.8673" EY="567.283" EZ="183.1295" IX="117.5057" IY="557.3167" IZ="184.3022" Price="80000" />
+  <Home Name="Placeholder" ID="17" EX="-177.3793" EY="503.8313" EZ="136.8531" IX="-173.286" IY="495.0179" IZ="137.667" Price="80000" />
+  <Home Name="Placeholder" ID="18" EX="1901.745" EY="3783.513" EZ="32.79797" IX="265.3285" IY="-1002.704" IZ="-99.0085" Price="80000" />
+  <Home Name="Placeholder" ID="19" EX="-258.1236" EY="-969.0657" EZ="31.2199" IX="-281.0908" IY="-943.2817" IZ="92.5108" Price="80000" />
+  <Home Name="Placeholder" ID="20" EX="-49.3243" EY="-583.1716" EZ="37.0333" IX="-21.0966" IY="-580.4884" IZ="90.1148" Price="80000" />
+</Homes>
